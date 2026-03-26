@@ -238,7 +238,7 @@ HSRIS-NLP-Assignment/
 **Ahmad Abdullah**  
 Roll Number: 23F-3027  
 GitHub: https://github.com/AhmadAbdullah75
-
+Live Demo (Hugging Face): https://ahmadabdullah27-hsris-nlp-assignment.hf.space
 ---
 
 *Built with PyTorch + GloVe + TF-IDF | Assignment 3 | Dual T4 GPU | Gradio 5.50.0*
